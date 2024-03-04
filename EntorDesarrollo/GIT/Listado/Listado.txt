@@ -10,4 +10,4 @@
 
 ## Patxi
 1. Supervisar desarrollo de la aplicación
-2.
+2. Asignar tareas de desarrollo
