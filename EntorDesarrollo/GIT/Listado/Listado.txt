@@ -15,3 +15,7 @@
 ## Angel
 1. Configurar infraestructura
 2. Supervisar implementaciones críticas
+
+## Chat GPT
+1. Resolver dudas del equipo técnico
+2. Mejorar calidad del código
