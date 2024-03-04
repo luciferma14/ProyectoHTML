@@ -4,6 +4,6 @@
 
 ## Javier Garcia
 1. Diseño de la base de datos
-2.
+2. Normalización
 3.
 4.
