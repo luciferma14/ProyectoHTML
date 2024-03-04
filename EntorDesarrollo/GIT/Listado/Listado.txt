@@ -14,4 +14,4 @@
 
 ## Angel
 1. Configurar infraestructura
-2.
+2. Supervisar implementaciones críticas
