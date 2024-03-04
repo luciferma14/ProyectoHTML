@@ -17,5 +17,5 @@
 2. Supervisar implementaciones críticas
 
 ## Chat GPT
-1.
+1. Resolver dudas del equipo técnico
 2.
