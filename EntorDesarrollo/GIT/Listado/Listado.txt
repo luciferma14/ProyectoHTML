@@ -15,3 +15,7 @@
 ## Angel
 1. Configurar infraestructura
 2. Supervisar implementaciones críticas
+
+## Chat GPT
+1.
+2.
