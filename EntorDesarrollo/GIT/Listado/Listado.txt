@@ -6,4 +6,4 @@
 1. Diseño de la base de datos
 2. Normalización
 3. Implementación de la base de datos
-4.
+4. Preparar datos de prueba
