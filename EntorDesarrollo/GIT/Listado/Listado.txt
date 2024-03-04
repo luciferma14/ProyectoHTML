@@ -13,5 +13,5 @@
 2. Asignar tareas de desarrollo
 
 ## Angel
-1.
+1. Configurar infraestructura
 2.
