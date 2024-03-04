@@ -18,4 +18,4 @@
 
 ## Chat GPT
 1. Resolver dudas del equipo técnico
-2.
+2. Mejorar calidad del código
